@@ -40,6 +40,12 @@ npm install
 ```
 ## 📝 Create a .env file inside server/ directory:
 
+```bash
+MONGO_URI=your_mongo_url
+APP_URL = http://localhost:3000/
+JWT_SECRET = your_jwt_secret
+```
+
 ## ▶️ Run the backend server:
 
 ```bash
